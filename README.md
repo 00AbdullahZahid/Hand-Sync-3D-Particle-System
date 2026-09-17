@@ -2,7 +2,7 @@
 
 An interactive real-time 3D particle experience controlled by hand gestures, powered by Three.js and MediaPipe Hands.
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-00f2ff?style=for-the-badge)](https://talhahSalman.github.io/Hand-Sync-3D-Particle-System/index.html)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-00f2ff?style=for-the-badge)](https://00AbdullahZahid.github.io/Hand-Sync-3D-Particle-System/)
 ![Three.js](https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-FF4D4D?style=for-the-badge)
 
@@ -38,14 +38,14 @@ An interactive real-time 3D particle experience controlled by hand gestures, pow
 
 ### Try the live demo
 
-Open the [live demo](https://talhahSalman.github.io/Hand-Sync-3D-Particle-System/index.html) in a modern browser and allow camera access when prompted.
+Open the [live demo](https://00AbdullahZahid.github.io/Hand-Sync-3D-Particle-System/) in a modern browser and allow camera access when prompted.
 
 ### Run locally
 
 The project is a single static HTML file. Clone the repository and serve the folder over HTTPS or localhost so camera permissions work correctly:
 
 ```bash
-git clone https://github.com/talhahSalman/Hand-Sync-3D-Particle-System.git
+git clone https://github.com/00AbdullahZahid/Hand-Sync-3D-Particle-System.git
 cd Hand-Sync-3D-Particle-System
 ```
 
